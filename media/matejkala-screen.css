@@ -109,7 +109,6 @@ p code {
   right: -20%;
 }
 
-
 ul,
 ol {
   position: relative;
@@ -216,15 +215,19 @@ strong {
   font-weight: bold;
 }
 
-#address {
-  display: none;
-}
-
 img,
 img.icon {
   height: 1em;
   position: relative;
   top: 0.1em;
+}
+
+img#profile {
+  /*position: absolute;*/
+  position: absolute;
+  height: 200px;
+    top: 10px;
+    left: -230px;
 }
 
 /*

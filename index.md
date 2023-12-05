@@ -1,33 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matej Kala
+description:
+email: kalamatej@gmail.com
+home: ka1amita.github.io
+github: github.com/ka1amita
+phone: +420 737 239 310
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Matej Kala
 
+Chemist, Backend and DevOps Engineer
+
+> Work smart
+
+<ul id="webaddress">
+<li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
+<li><i class="fas fa-home"></i><a href="https://{{page.home}}">{{page.home}}</a></li>
+<li><i class="fa-brands fa-github"></i><a href="https://{{page.github}}">{{page.github}}</a></li>
+<li><i class="fa-solid fa-phone"></i>{{page.phone}}</li>
+</ul>
 
 ## Currently
 
-Standing on the shoulders of giants
+<p style="text-align: justify">
+I recently took a leave to get the education needed to start my new career.
+It was amazing to gain so much new knowledge. But I'm not going to end here.
+I have a strong desire to improve my skills and further expand my knowledge to excel in the new job.
+</p>
 
-### Specialized in
+## Tech Stack
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
++ <i class="fa-solid fa-star"></i> Java ![java](media/imgs/java.svg)
++ <i class="fa-solid fa-star-half-stroke"></i> Python ![python](media/imgs/python.svg)
++ <i class="fa-solid fa-star"></i> SpringBoot ![spring](media/imgs/spring.svg)
++ <i class="fa-solid fa-star-half-stroke"></i> Flyway ![flyway](media/imgs/flyway.svg)
++ <i class="fa-solid fa-star-half-stroke"></i> Docker ![docker](media/imgs/docker.svg)
++ <i class="fa-solid fa-star-half-stroke"></i> AWS ![ec2](media/imgs/ec2.svg)
++ <i class="fa-regular fa-star"></i> Terraform ![terraform](media/imgs/terraform.svg)
++ <i class="fa-solid fa-star"></i> CircleCI ![circleci](media/imgs/circleci.svg)
++ <i class="fa-solid fa-star-half-stroke"></i> SQL ![mysql](media/imgs/mysql.svg)
++ <i class="fa-solid fa-star"></i> Git ![git](media/imgs/git.svg)
 
+[//]: # (<i class="fa-solid fa-star"></i>)
+[//]: # (<i class="fa-solid fa-star-half-stroke"></i>)
+[//]: # (<i class="fa-regular fa-star"></i>)
 
-### Research interests
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+ChatGPT <img alt="ChatGPT" class="icon" src="media/imgs/openai.svg"/>, Data
+analysis <img alt="Data Analysis" class="icon" src="media/imgs/chart-line-data.svg"/>, Design of
+Experiments <img alt="DOE" class="icon" src="media/imgs/gears.svg"/>
 
+### Projects
+
++ [Chat Bot](https://{{page.github}}/resume-chatbot) ![yoga](media/imgs/yoga.svg)
++ [Todo App](https://{{page.github}}/committed-project) ![todo](media/imgs/todo.svg)
 
 ## Education
 
-`1654-1660`
+`2003-2022`
 __The King's School, Grantham.__
 
 `June 1661 - now`
@@ -40,52 +72,8 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+[//]: # (## Occupation)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: December 2023 -->

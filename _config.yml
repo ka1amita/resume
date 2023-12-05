@@ -1,2 +1,4 @@
 markdown:   kramdown
-style:  davewhipp
+style:  matejkala
+
+exclude: [HELP.md, README.md]

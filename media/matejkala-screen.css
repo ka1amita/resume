@@ -53,7 +53,7 @@ blockquote p {
   font-style: italic;
   display: inline;
   /*to compensate for the p tag property*/
-  left: 0%;
+  left: 0;
 }
 
 blockquote:before,
@@ -114,19 +114,11 @@ ol {
   position: relative;
   left: 25%;
   width: 75%;
-  margin-bottom: 1.5em;
   /*margin-top: -0.5em;*/
-}
-
-/*uncomment to get dashes in the list*/
-ul li:before {
-  /*content: "-";*/
-  position: relative;
-  left: -0.25em;
+  margin-bottom: 1.5em;
 }
 
 ol li:before {
-  /*content: "-";*/
   position: relative;
   left: -0.25em;
 }
@@ -135,23 +127,27 @@ li {
   /*second line indent*/
   padding-left: 1.25em;
   text-indent: -1.25em;
-  /*color: #777;*/
 }
 
-li ul, li ol {
+li ul,
+li ol {
   position: relative;
   left: 0;
   width: 100%;
   margin-top: 0.25em;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   font-weight: 400;
   font-family: Avenir, Cousine, Verdana, sans-serif;
   width: 80%;
 }
 
 h1 {
+  color: #9ac99d;
   text-align: left;
   font-size: 3em;
   line-height: 1em;
@@ -167,7 +163,7 @@ h1 + p {
 
 h2 {
   font-size: 1.1em;
-  color: #bc412b;
+  color: #9ac99d;
   margin-top: 3em;
   position: relative;
   top: 1.4em;
@@ -185,29 +181,26 @@ h3 {
 }
 
 a {
-  color: inherit;
-  text-decoration:none
+  color: #c99d9a;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #39f
+  /*color: #39f;*/
+  color: #9d9ac9;
 }
 
 #webaddress {
   margin-top: 1em;
   position: relative;
   left: 25%;
-  color: #bc412b;
+  color: #c99d9a;
   font-family: Monaco, Menlo, monospace, sans-serif;
   font-size: 100%;
-}
-
-#webaddress a {
-  text-decoration: none;
+  letter-spacing: .2rem;
 }
 
 em {
-  /* font-weight: bold; */
   font-style: italic;
 }
 
@@ -215,18 +208,17 @@ strong {
   font-weight: bold;
 }
 
-img,
-img.icon {
+/*img.icon,*/
+img {
   height: 1em;
   position: relative;
   top: 0.1em;
 }
 
-img#profile {
-  /*position: absolute;*/
+#photo {
   position: absolute;
   height: 200px;
-    top: 10px;
+    top: 50px;
     left: -230px;
 }
 

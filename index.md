@@ -17,7 +17,7 @@ include-achievements: true
 ---
 
 {% if page.include-photo %}
-<img id="profile" src="media/photo/matejkala-crop.png" alt="Matej Kala">
+<img id="photo" src="media/photo/matejkala.png" alt="Matej Kala">
 {% endif %}
 
 # Matej Kala
@@ -46,16 +46,16 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 ## Tech Stack
 
-+ <i class="fa-solid fa-star"></i>Java ![java](media/imgs/java.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Python ![python](media/imgs/python.svg)
-+ <i class="fa-solid fa-star"></i>SpringBoot ![spring](media/imgs/spring.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Flyway ![flyway](media/imgs/flyway.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Docker ![docker](media/imgs/docker.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>AWS ![ec2](media/imgs/ec2.svg)
-+ <i class="fa-regular fa-star"></i>Terraform ![terraform](media/imgs/terraform.svg)
-+ <i class="fa-solid fa-star"></i>CircleCI ![circleci](media/imgs/circleci.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>SQL ![mysql](media/imgs/mysql.svg)
-+ <i class="fa-solid fa-star"></i>Git ![git](media/imgs/git.svg)
++ <i class="fa-solid fa-star"></i>Java ![java](media/icons/java.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Python ![python](media/icons/python.svg)
++ <i class="fa-solid fa-star"></i>SpringBoot ![spring](media/icons/spring.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Flyway ![flyway](media/icons/flyway.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Docker ![docker](media/icons/docker.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>AWS ![ec2](media/icons/ec2.svg)
++ <i class="fa-regular fa-star"></i>Terraform ![terraform](media/icons/terraform.svg)
++ <i class="fa-solid fa-star"></i>CircleCI ![circleci](media/icons/circleci.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>SQL ![mysql](media/icons/mysql.svg)
++ <i class="fa-solid fa-star"></i>Git ![git](media/icons/git.svg)
 
 [//]: # (<i class="fa-solid fa-star"></i>)
 [//]: # (<i class="fa-solid fa-star-half-stroke"></i>)
@@ -63,33 +63,46 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 ### Soft Skills
 
-+ <i class="fa-solid fa-people-group"></i>Teamwork
-+ Attention to Detail
-+ Curiosity
-+ Problem Solving
++ ![team](media/icons/team.svg)
+  Teamwork
++ ![search](media/icons/search.svg)
+  Attention to Detail
++ ![ear](media/icons/ear.svg)
+  Curiosity
++ ![bulb](media/icons/bulb.svg)
+  Problem Solving
 
 ### Interests
 
-ChatGPT <img alt="ChatGPT" class="icon" src="media/imgs/openai.svg"/>, 
-Data analysis <img alt="Data Analysis" class="icon" src="media/imgs/chart-line-data.svg"/>, 
-Design of Experiments <img alt="DOE" class="icon" src="media/imgs/gears.svg"/>
++ ![chatgpt](media/icons/chatgpt.svg)
+  ChatGPT
++ ![chart-line-data](media/icons/chart-line-data.svg)
+  Data analysis
++ ![gears](media/icons/gears.svg)
+  Design of Experiments
 
-### Projects
+### Portfolio
 
-+ [Chat Bot](https://{{page.github}}/resume-chatbot) ![yoga](media/imgs/yoga.svg)
-+ [Todo App](https://{{page.github}}/committed-project) ![todo](media/imgs/todo.svg)
++ ![yoga](media/icons/yoga.svg) [Chat Bot](https://{{page.github}}/resume-chatbot)
++ ![todo](media/icons/todo.svg) [Todo App](https://{{page.github}}/committed-project)
 
 ## Languages
 
-+ <i class="fa-solid">🇬🇧</i>English - full professional proficiency
-+ <i class="fa-solid">🇩🇪</i>German - intermediate
-+ <i class="fa-solid">🇨🇿</i>Czech - native
+[//]: # (<i class="fa-solid">🇬🇧</i>)
 
-## Working Experience
+[//]: # (<i class="fa-solid">🇩🇪</i>)
+
+[//]: # (<i class="fa-solid">🇨🇿</i>)
+
++ ![united-kingdom](media/icons/united-kingdom.svg) English - full professional proficiency
++ ![germany](media/icons/germany.svg) German - intermediate
++ ![czechia](media/icons/czechia.svg) Czech - native
+
+## Experience
 
 `2020-2022`
 **Process Research Chemist**, _[Syngenta](https://www.syngenta.com/)_, Stein (AG), Switzerland
-
+![switzerland](media/icons/switzerland.svg)
 {% if page.include-outline %}
 ### Outline
 
@@ -144,6 +157,7 @@ Implementation of innovative reactions based on own ideas
 
 `2016-2019`
 **Process Research Team Leader** _[Farmak](https://www.farmak.cz/)_, Olomouc, Czech Republic
+![czechia](media/icons/czechia.svg)
 
 {% if page.include-outline %}
 ### Outline
@@ -154,6 +168,7 @@ Development of multi-stage API production processes - from the laboratory route 
 
 `2008-2013`
 **Master's degree in Organic Chemistry** _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, Prague, Czech Republic
+![czechia](media/icons/czechia.svg)
 
 <!-- ### Footer
 

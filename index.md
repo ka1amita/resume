@@ -76,7 +76,7 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 + ![chatgpt](media/icons/chatgpt.svg)
   ChatGPT
-+ ![chart-line-data](media/icons/chart-line-data.svg)
++ ![chart](media/icons/chart.svg)
   Data analysis
 + ![gears](media/icons/gears.svg)
   Design of Experiments

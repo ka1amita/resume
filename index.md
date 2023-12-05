@@ -1,33 +1,64 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matej Kala's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Matej Kala
 
+Chemist, Backend Software and DevOps Engineer
+
+> First time right
+
+[//]: # (<div id="webaddress">)
+
+<ul id="webaddress">
+<li><i class="fa-solid fa-at"></i><a href="mailto:{{site.email}}">{{site.email}}</a></li>
+<li><i class="fas fa-home"></i><a href="https://{{site.home}}">{{site.home}}</a></li>
+<li><i class="fa-brands fa-github"></i><a href="https://{{site.github}}">{{site.github}}</a></li>
+<li><i class="fa-solid fa-phone"></i><span>{{site.phone}}</span></li>
+</ul>
+
+[//]: # (</div>)
 
 ## Currently
 
-Standing on the shoulders of giants
+I recently took a leave to get the education needed to start my new career.
+It was amazing to gain so much new knowledge. But I'm not going to end here.
+I have a strong desire to improve my skills and further expand my knowledge to excel in a new job.
 
-### Specialized in
+## Tech Stack
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
++ ![battery-empty.svg](media%2Fimgs%2Fbattery-empty.svg)![battery-half.svg](media%2Fimgs%2Fbattery-half.svg)![battery-full.svg](media%2Fimgs%2Fbattery-full.svg)Java
+  ![java.svg](media%2Fimgs%2Fjava.svg)
++ <i class="fa-solid fa-star-half-stroke"></i> Python
+  ![python](media/imgs/python.svg)
++ <i class="fa-solid fa-star"></i>Spring
+  ![spring.svg](media%2Fimgs%2Fspring.svg)
++ <i class="fa-solid fa-star-half-stroke"></i> CircleCI
+  ![circleci.svg](media%2Fimgs%2Fcircleci.svg)
++ SQL
+  ![mysql.svg](media%2Fimgs%2Fmysql.svg)
++ Docker
+  ![docker.svg](media%2Fimgs%2Fdocker.svg)
++ Git
+  ![git.svg](media%2Fimgs%2Fgit.svg)
+  ![github.svg](media%2Fimgs%2Fgithub.svg)
 
+### Interests
 
-### Research interests
+ChatGPT <img alt="OpenAI" class="icon" src="media/imgs/openai.svg"/>, Data
+analysis <img alt="Data Analysis" class="icon" src="media/imgs/chart-line-data.svg"/>, Design of
+Experiments <img alt="DOE" class="icon" src="media/imgs/gears.svg"/>
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Projects
 
+1. s
+2. s
+3. 
 
 ## Education
 
-`1654-1660`
+`2003-2022`
 __The King's School, Grantham.__
 
 `June 1661 - now`
@@ -39,31 +70,6 @@ __Trinity College, Cambridge__
 __Trinity College, Cambridge__
 
 - Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
 
@@ -86,6 +92,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023 -->
 
 

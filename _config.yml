@@ -1,11 +1,4 @@
 markdown:   kramdown
 style:  matejkala
 
-title: Matej Kala Resume
-description:
-email: kalamatej@gmail.com
-home: ka1amita.github.io
-github: github.com/ka1amita
-phone: +420 737 239 310
-
 exclude: [HELP.md, README.md]

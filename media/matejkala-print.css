@@ -1,6 +1,7 @@
-/* based on Dave Whipp's style
-   http://meyerweb.com
-   License: none (public domain)
+/*
+  based on Dave Whipp's style
+  http://meyerweb.com
+  License: none (public domain)
 */
 
 html, body, div, span, applet, object, iframe,
@@ -30,106 +31,60 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-body {
-  line-height: 1;
+/* Layout */
+h2,
+h3 {
+  position: relative;
+  width: 20%;
+}
+
+blockquote,
+q,
+ul,
+ol,
+p {
+  width: 60%;
+}
+
+h1,
+blockquote,
+q,
+ul,
+ol,
+p {
+  position: relative;
+  left: 25%;
+}
+
+p code {
+  position: absolute;
+  right: -20%;
 }
 
 ul {
   list-style: none;
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 
-ol {
-  /*list-style: none;*/
+/* overwrite the generic number of columns */
+ul#web-address {
+  columns: 1;
+  -webkit-columns: 1;
+  -moz-columns: 1;
 }
 
-blockquote {
-  position: relative;
-  left: 25%;
-  font-size: 110%;
-}
-
-blockquote p {
-  position: relative;
-  font-style: italic;
-  display: inline;
-  /*to compensate for the p tag property*/
-  left: 0;
-}
-
-blockquote:before,
-q:before {
-  position: relative;
-  content: open-quote;
-  font-size: 2em;
-  top: 0.7em;
-}
-
-blockquote:after,
-q:after {
-  position: relative;
-  content: close-quote;
-  font-size: 2em;
-  top: 0.2em;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+/* End of Layout */
 
 body {
   font: normal normal 400;
   font-size: 12pt;
   line-height: 1.35em;
-  /*also written as...  font: normal normal 400 100%/1.5em;*/
+  /* also written as...  font: normal normal 400 100%/1.5em; */
   font-family: Avenir, Verdana, sans-serif;
   /*margin-top: 1em;
   margin-left: 1em;*/
-}
-
-p {
-  position: relative;
-  left: 25%;
-  margin-bottom: 0.2em;
-  margin-right: 0;
-  width: 60%;
-}
-
-code {
-  font: normal normal;
-  font-size: 90%;
-  /*line-height: 1em;*/
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  /*color: #ccc;*/
-}
-
-p code {
-  position: absolute;
-  text-align: right;
-  right: -20%;
-}
-
-ul,
-ol {
-  position: relative;
-  left: 25%;
-  width: 75%;
-  /*margin-top: -0.5em;*/
-  margin-bottom: 1em;
-}
-
-li {
-  /*second line indent*/
-  padding-left: 1.25em;
-  text-indent: -1.25em;
-}
-
-li ul,
-li ol {
-  position: relative;
-  left: 0;
-  width: 100%;
-  margin-top: 0.25em;
 }
 
 h1,
@@ -138,7 +93,6 @@ h3,
 h4 {
   font-weight: 400;
   font-family: Avenir, Cousine, Verdana, sans-serif;
-  width: 80%;
 }
 
 h1 {
@@ -146,8 +100,6 @@ h1 {
   text-align: left;
   font-size: 3em;
   line-height: 1em;
-  position: relative;
-  left: 25%;
 }
 
 h1 + p {
@@ -159,20 +111,97 @@ h1 + p {
 h2 {
   font-size: 1.1em;
   color: #9ac99d;
-  /*margin-top: 2em;*/
-  position: relative;
+  margin-top: 1.5em;
   top: 1.2em;
   text-align: right;
-  width: 20%;
 }
 
 h3 {
   font-size: 1em;
-  line-height: 2em;
-  position: relative;
+  margin-top: -1em;
+  /*line-height: 2em;*/
   top: 1.6em;
   text-align: right;
-  width: 20%;
+}
+
+blockquote,
+q {
+  font-size: 110%;
+}
+
+blockquote p {
+  font-style: italic;
+  display: inline;
+  left: 0; /* to compensate for the p tag property */
+}
+
+blockquote:before,
+q:before {
+  content: open-quote;
+  font-size: 2em;
+  position: relative;
+  top: 0.7em;
+}
+
+blockquote:after,
+q:after {
+  content: close-quote;
+  font-size: 2em;
+  position: relative;
+  top: 0.2em;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+p {
+  margin-bottom: 0.2em;
+  margin-right: 0;
+}
+
+code {
+  font: normal normal;
+  font-size: 90%;
+  /*line-height: 1em;*/
+  font-family: Monaco, Menlo, monospace, sans-serif;
+  /*color: #aaa;*/
+}
+
+p code {
+  text-align: right;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  /*list-style: none;*/
+}
+
+ul,
+ol {
+  /*margin-top: -0.5em;*/
+  margin-bottom: 1em;
+}
+
+/*ol li:before {
+  position: relative;
+  left: -0.25em;
+}*/
+
+li {
+  /* second line indent */
+  padding-left: 1.25em;
+  text-indent: -1.25em;
+}
+
+li ul,
+li ol {
+  left: 0;
+  margin-top: 0.25em;
 }
 
 a {
@@ -184,26 +213,22 @@ a:hover {
   color: #9d9ac9;
 }
 
-#webaddress {
+#web-address {
   margin-top: 1em;
-  position: relative;
-  left: 25%;
   color: #c99d9a;
   font-family: Monaco, Menlo, monospace, sans-serif;
   font-size: 90%;
+  /*letter-spacing: .2rem;*/
 }
 
 em {
-  /*font-weight: bold;*/
   font-style: italic;
-  /*color: #2d4e5e*/
 }
 
 strong {
   font-weight: bold;
 }
 
-/*img.icon,*/
 img {
   height: 1em;
   position: relative;
@@ -225,6 +250,7 @@ img {
 }
 
 #ghbutton {
+  /* Artifact from the original. I dunno what that is */
   display: none;
   visibility: hidden;
 }

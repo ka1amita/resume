@@ -26,4 +26,4 @@ one of the following
 
 ## Exclude files from build
 
-
+add `exclude: [<filename>,...]` in `_config.yml`

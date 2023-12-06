@@ -28,13 +28,14 @@ Chemist, Backend and DevOps Engineer
 
 <ul id="web-address">
 <li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
-<li><i class="fa-solid fa-house-laptop"></i><a href="https://{{page.home}}">{{page.home}}</a></li>
 <li><i class="fa-brands fa-github"></i><a href="https://{{page.github}}">{{page.github}}</a></li>
 {% if page.include-address %}
 <li><i class="fa-solid fa-home"></i>{{page.address}}</li>
 {% endif %}
 <li><i class="fa-solid fa-phone"></i>{{page.phone}}</li>
 </ul>
+
+[//]: # (<li><i class="fa-solid fa-house-laptop"></i><a href="https://{{page.home}}">{{page.home}}</a></li>)
 
 ## Currently
 

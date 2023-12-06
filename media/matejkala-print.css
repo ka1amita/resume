@@ -117,8 +117,7 @@ h2 {
 
 h3 {
   font-size: 1em;
-  margin-top: -1em;
-  /*line-height: 2em;*/
+  /*margin-top: -1em;*/
   top: 1.4em;
   text-align: right;
 }
@@ -183,7 +182,7 @@ ol {
 ul,
 ol {
   /*margin-top: -0.5em;*/
-  margin-bottom: 1em;
+  /*margin-bottom: 1em;*/
 }
 
 /*ol li:before {
@@ -215,9 +214,9 @@ a:hover {
 #web-address {
   margin-top: 1em;
   /*color: #c99d9a;*/
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  font-size: 90%;
-  /*letter-spacing: .2rem;*/
+  font-family: 'Dosis', sans-serif;
+  font-size: 100%;
+  letter-spacing: .1rem;
 }
 
 em {

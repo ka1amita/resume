@@ -27,3 +27,7 @@ one of the following
 ## Exclude files from build
 
 add `exclude: [<filename>,...]` in `_config.yml`
+
+## Layout
+
+Should I style `body` and `main` or just `div#main` and `div#content`?

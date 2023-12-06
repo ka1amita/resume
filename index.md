@@ -77,9 +77,7 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 + ![chatgpt](media/icons/chatgpt.svg)
   ChatGPT
 + ![chart](media/icons/chart.svg)
-  Data analysis
-+ ![gears](media/icons/gears.svg)
-  Design of Experiments
+  Data Science
 + ![farmer](media/icons/farmer.svg)
   Volunteering
 + ![teacher](media/icons/teacher.svg)

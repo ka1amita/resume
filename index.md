@@ -175,6 +175,11 @@ pilot-plant for validation.
 {% endif %}
 
 ## Education
+`2023`
+**Junior Software Developer**
+_[Bootcamp](https://www.greenfoxacademy.com/en/home),_ 
+Online
+![internet.svg](media/icons/internet.svg)
 
 `2008-2013`
 **Master's degree in Organic Chemistry**,

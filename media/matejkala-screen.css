@@ -31,54 +31,6 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
-  line-height: 1;
-}
-
-ul {
-  list-style: none;
-}
-
-ol {
-  /*list-style: none;*/
-}
-
-blockquote {
-  position: relative;
-  left: 25%;
-  font-size: 110%;
-  width: 55%;
-}
-
-blockquote p {
-  position: relative;
-  font-style: italic;
-  display: inline;
-  /*to compensate for the p tag property*/
-  left: 0;
-}
-
-blockquote:before,
-q:before {
-  position: relative;
-  content: open-quote;
-  font-size: 2em;
-  top: 0.7em;
-}
-
-blockquote:after,
-q:after {
-  position: relative;
-  content: close-quote;
-  font-size: 2em;
-  top: 0.2em;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-body {
   font: normal normal 400;
   font-size: 100%;
   line-height: 1.5em;
@@ -86,56 +38,6 @@ body {
   font-family: Avenir, Verdana, sans-serif;
   margin-top: 1em;
   margin-left: 1em;
-}
-
-p {
-  position: relative;
-  left: 25%;
-  margin-bottom: 0.7em;
-  margin-right: 0;
-  width: 55%;
-}
-
-code {
-  font: normal normal;
-  font-size: 90%;
-  /*line-height: 1em;*/
-  font-family: Monaco, Menlo, monospace, sans-serif;
-  color: #aaa;
-}
-
-p code {
-  position: absolute;
-  text-align: right;
-  right: -20%;
-}
-
-ul,
-ol {
-  position: relative;
-  left: 25%;
-  width: 75%;
-  /*margin-top: -0.5em;*/
-  margin-bottom: 1.5em;
-}
-
-ol li:before {
-  position: relative;
-  left: -0.25em;
-}
-
-li {
-  /*second line indent*/
-  padding-left: 1.25em;
-  text-indent: -1.25em;
-}
-
-li ul,
-li ol {
-  position: relative;
-  left: 0;
-  width: 100%;
-  margin-top: 0.25em;
 }
 
 h1,
@@ -179,6 +81,100 @@ h3 {
   top: 1.7em;
   text-align: right;
   width: 20%;
+}
+
+blockquote {
+  position: relative;
+  left: 25%;
+  font-size: 110%;
+  width: 55%;
+}
+
+blockquote p {
+  position: relative;
+  font-style: italic;
+  display: inline;
+  /*to compensate for the p tag property*/
+  left: 0;
+}
+
+blockquote:before,
+q:before {
+  position: relative;
+  content: open-quote;
+  font-size: 2em;
+  top: 0.7em;
+}
+
+blockquote:after,
+q:after {
+  position: relative;
+  content: close-quote;
+  font-size: 2em;
+  top: 0.2em;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+p {
+  position: relative;
+  left: 25%;
+  margin-bottom: 0.7em;
+  margin-right: 0;
+  width: 55%;
+}
+
+code {
+  font: normal normal;
+  font-size: 90%;
+  /*line-height: 1em;*/
+  font-family: Monaco, Menlo, monospace, sans-serif;
+  color: #aaa;
+}
+
+p code {
+  position: absolute;
+  text-align: right;
+  right: -20%;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  /*list-style: none;*/
+}
+
+ul,
+ol {
+  position: relative;
+  left: 25%;
+  width: 75%;
+  /*margin-top: -0.5em;*/
+  margin-bottom: 1.5em;
+}
+
+ol li:before {
+  position: relative;
+  left: -0.25em;
+}
+
+li {
+  /*second line indent*/
+  padding-left: 1.25em;
+  text-indent: -1.25em;
+}
+
+li ul,
+li ol {
+  position: relative;
+  left: 0;
+  width: 100%;
+  margin-top: 0.25em;
 }
 
 a {

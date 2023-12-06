@@ -200,7 +200,7 @@ Prague, Czech Republic
 
 **Python 3**
 [![certificate](media/icons/certificate.svg)](media/certs/codecademy-certificate.pdf),
-_[CodeCademy](https://www.codecademy.com)_
+_[Codecademy](https://www.codecademy.com)_
 
 <!-- ### Footer
 

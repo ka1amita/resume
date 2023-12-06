@@ -119,7 +119,7 @@ h3 {
   font-size: 1em;
   margin-top: -1em;
   /*line-height: 2em;*/
-  top: 1.6em;
+  top: 1.4em;
   text-align: right;
 }
 
@@ -156,7 +156,7 @@ table {
 }
 
 p {
-  margin-bottom: 0.2em;
+  /*margin-bottom: 0.2em;*/
   margin-right: 0;
 }
 

@@ -82,6 +82,7 @@ I have a strong desire to improve my skills and further expand my knowledge to e
   Data Science
 + ![farmer](media/icons/farmer.svg)
   Volunteering
+  [![certificate](media/icons/certificate.svg)](media/certs/230904-caritas-bergeinsatz-nachweis.pdf),
 + ![teacher](media/icons/teacher.svg)
   Teaching in a [climbing club](https://www.vsak.net/)
 
@@ -99,7 +100,8 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 ## Experience
 
 `2020-2022`
-**Process Research Chemist**,
+**Process Research Chemist**
+[![certificate](media/icons/certificate.svg)](media/certs/syngenta-certificate.pdf),
 _[Syngenta](https://www.syngenta.com/)_,
 Stein (AG), Switzerland
 ![switzerland](media/icons/switzerland.svg)
@@ -179,6 +181,7 @@ pilot-plant for validation.
 
 `2023`
 **Junior Software Developer**
+[![certificate](media/icons/certificate.svg)](media/certs/green-fox-academy-certificate.pdf),
 _[Bootcamp](https://www.greenfoxacademy.com/en/home),_ 
 Online
 ![internet.svg](media/icons/internet.svg)
@@ -186,10 +189,18 @@ Online
 <h2> </h2>
 
 `2008-2013`
-**Master's degree in Organic Chemistry**,
+**Master's degree in Organic Chemistry**
+[![certificate](media/icons/certificate.svg)](media/certs/msc-diploma.pdf)
+[![certificate](media/icons/certificate.svg)](media/certs/bc-diploma.pdf),
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, 
 Prague, Czech Republic
 ![czechia](media/icons/czechia.svg)
+
+### Courses
+
+**Python 3**
+[![certificate](media/icons/certificate.svg)](media/certs/codecademy-certificate.pdf),
+_[CodeCademy](https://www.codecademy.com)_
 
 <!-- ### Footer
 

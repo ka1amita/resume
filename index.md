@@ -26,7 +26,7 @@ Chemist, Backend and DevOps Engineer
 
 > Work smart
 
-<ul id="webaddress">
+<ul id="web-address">
 <li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
 <li><i class="fa-solid fa-house-laptop"></i><a href="https://{{page.home}}">{{page.home}}</a></li>
 <li><i class="fa-brands fa-github"></i><a href="https://{{page.github}}">{{page.github}}</a></li>

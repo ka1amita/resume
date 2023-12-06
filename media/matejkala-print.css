@@ -95,7 +95,7 @@ h4 {
 }
 
 h1 {
-  color: #9ac99d;
+  /*color: #9ac99d;*/
   text-align: left;
   font-size: 3em;
   line-height: 1em;
@@ -109,7 +109,7 @@ h1 + p {
 
 h2 {
   font-size: 1.1em;
-  color: #9ac99d;
+  /*color: #9ac99d;*/
   margin-top: 1.5em;
   top: 1.2em;
   text-align: right;
@@ -214,7 +214,7 @@ a:hover {
 
 #web-address {
   margin-top: 1em;
-  color: #c99d9a;
+  /*color: #c99d9a;*/
   font-family: Monaco, Menlo, monospace, sans-serif;
   font-size: 90%;
   /*letter-spacing: .2rem;*/

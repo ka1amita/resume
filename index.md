@@ -1,7 +1,8 @@
 ---
 layout: cv
 title: Matej Kala
-description:
+subtitle: Chemist, Software Developer
+description: 
 email: kalamatej@gmail.com
 home: ka1amita.github.io
 github: github.com/ka1amita
@@ -20,9 +21,9 @@ include-achievements: true
 <img id="photo" src="media/photo/matejkala.png" alt="Matej Kala">
 {% endif %}
 
-# Matej Kala
+# {{page.title}}
 
-Chemist, Backend and DevOps Engineer
+{{page.subtitle}}
 
 > Work smart
 

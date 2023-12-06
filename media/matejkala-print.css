@@ -191,6 +191,10 @@ ol {
 }*/
 
 li {
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  break-inside: avoid;
+
   /* second line indent */
   padding-left: 1.25em;
   text-indent: -1.25em;

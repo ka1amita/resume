@@ -46,6 +46,7 @@ blockquote {
   position: relative;
   left: 25%;
   font-size: 110%;
+  width: 55%;
 }
 
 blockquote p {

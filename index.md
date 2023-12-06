@@ -90,12 +90,6 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 ## Languages
 
-[//]: # (<i class="fa-solid">🇬🇧</i>)
-
-[//]: # (<i class="fa-solid">🇩🇪</i>)
-
-[//]: # (<i class="fa-solid">🇨🇿</i>)
-
 + ![united-kingdom](media/icons/united-kingdom.svg) English - full professional proficiency
 + ![germany](media/icons/germany.svg) German - intermediate
 + ![czechia](media/icons/czechia.svg) Czech - native
@@ -103,8 +97,11 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 ## Experience
 
 `2020-2022`
-**Process Research Chemist**, _[Syngenta](https://www.syngenta.com/)_, Stein (AG), Switzerland
+**Process Research Chemist**,
+_[Syngenta](https://www.syngenta.com/)_,
+Stein (AG), Switzerland
 ![switzerland](media/icons/switzerland.svg)
+
 {% if page.include-outline %}
 ### Outline
 
@@ -124,15 +121,18 @@ Skillful planning and execution of multistep organic synthesis using a range of 
 Thorough planning and attention to detail while executing sensitive reactions 
 (e.g. Schlenk techniques, drying and degassing of solvents,
 work-up screening to avoid product decomposition).
-Quantification (by qNMR or LC-UV in combination with statistical analysis) of investigated reactions and sensitive reagents with high degree of precision and accuracy.
+
+Quantification (by qNMR or LC-UV in combination with statistical analysis) of investigated
+reactions
+and sensitive reagents with high degree of precision and accuracy.
 
 Separation (using preparative Flash, TLC or RP-HPLC) and identification 
 (using LC-MS, GC-MS with 1D and 2D NMR spectroscopy) 
 of unknown side-products in proposed speculative reactions.
 
-Optimization ranging from simple solvent screening (using published PCA or cluster analysis data) 
-to multi-parameter optimization (using DoE). 
-Conducting and analysing dozen reactions simultaneously.
+Optimization ranging from simple solvent screening (using published PCA or cluster analysis data)
+to multi-parameter optimization (using DoE).
+Conducting and analysing a dozen reactions simultaneously.
 
 Understanding laws of physical chemistry, 
 reaction kinetics and reactivity hazards backed up by literature sources 
@@ -140,7 +140,6 @@ and hazard evaluation techniques (DSC) in order to conduct reactions in a safe m
 
 Supporting young team members.
   {% endif %}
-
 {% endif %}
 
 {% if page.include-achievements %}
@@ -148,30 +147,38 @@ Supporting young team members.
 
 Participation in a project awarded with a company award.
 
-Planning, execution and analysis of a multi-parameter optimization using DoE resulting in development of superior conditions giving very high enantioselectivity while decreasing expensive ligand and catalyst loadings.
+Planning, execution and analysis of a multi-parameter optimization using DoE
+resulting in development of superior conditions giving very high enantioselectivity
+while decreasing expensive ligand and catalyst loadings.
 
   {% if page.length == 'long' %}
 Implementation of innovative reactions based on own ideas 
 (new method for amidine synthesis or C-N coupling by Ag(I) or Cu(I)).
   {% endif %}
-
 {% endif %}
 
 <h2> </h2>
 
 `2016-2019`
-**Process Research Team Leader** _[Farmak](https://www.farmak.cz/)_, Olomouc, Czech Republic
+**Process Research Team Leader**,
+_[Farmak](https://www.farmak.cz/)_,
+Olomouc, Czech Republic
 ![czechia](media/icons/czechia.svg)
 
 {% if page.include-outline %}
 ### Outline
-Development of multi-stage API production processes - from the laboratory route development and optimization through scale-up on 15 liters glass reactors to transfer of the final process to the pilot-plant for validation.
+
+Development of multi-stage API production processes - from the laboratory route development and
+optimization through scale-up on 15 liters glass reactors to transfer of the final process to the
+pilot-plant for validation.
 {% endif %}
 
 ## Education
 
 `2008-2013`
-**Master's degree in Organic Chemistry** _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, Prague, Czech Republic
+**Master's degree in Organic Chemistry**,
+_[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, 
+Prague, Czech Republic
 ![czechia](media/icons/czechia.svg)
 
 <!-- ### Footer

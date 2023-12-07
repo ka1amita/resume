@@ -18,7 +18,7 @@ include-achievements: true
 ---
 
 {% if page.include-photo %}
-<img id="photo" src="media/photo/matejkala.png" alt="Matej Kala">
+<img id="photo" src="assets/photo/matejkala.png" alt="Matej Kala">
 {% endif %}
 
 # {{page.title}}
@@ -48,16 +48,16 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 ## Tech Stack
 
-+ <i class="fa-solid fa-star"></i>Java ![java](media/icons/java.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Python ![python](media/icons/python.svg)
-+ <i class="fa-solid fa-star"></i>SpringBoot ![spring](media/icons/spring.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Flyway ![flyway](media/icons/flyway.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Docker ![docker](media/icons/docker.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>AWS ![ec2](media/icons/ec2.svg)
-+ <i class="fa-regular fa-star"></i>Terraform ![terraform](media/icons/terraform.svg)
-+ <i class="fa-solid fa-star"></i>CircleCI ![circleci](media/icons/circleci.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>SQL ![mysql](media/icons/mysql.svg)
-+ <i class="fa-solid fa-star"></i>Git ![git](media/icons/git.svg)
++ <i class="fa-solid fa-star"></i>Java ![java](assets/icons/java.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Python ![python](assets/icons/python.svg)
++ <i class="fa-solid fa-star"></i>SpringBoot ![spring](assets/icons/spring.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Flyway ![flyway](assets/icons/flyway.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Docker ![docker](assets/icons/docker.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>AWS ![ec2](assets/icons/ec2.svg)
++ <i class="fa-regular fa-star"></i>Terraform ![terraform](assets/icons/terraform.svg)
++ <i class="fa-solid fa-star"></i>CircleCI ![circleci](assets/icons/circleci.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>SQL ![mysql](assets/icons/mysql.svg)
++ <i class="fa-solid fa-star"></i>Git ![git](assets/icons/git.svg)
 
 [//]: # (<i class="fa-solid fa-star"></i>)
 [//]: # (<i class="fa-solid fa-star-half-stroke"></i>)
@@ -65,46 +65,46 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 ### Soft Skills
 
-+ ![team](media/icons/team.svg)
++ ![team](assets/icons/team.svg)
   Teamwork
-+ ![search](media/icons/search.svg)
++ ![search](assets/icons/search.svg)
   Attention to Detail
-+ ![ear](media/icons/ear.svg)
++ ![ear](assets/icons/ear.svg)
   Curiosity
-+ ![bulb](media/icons/bulb.svg)
++ ![bulb](assets/icons/bulb.svg)
   Problem Solving
 
 ### Interests
 
-+ ![chatgpt](media/icons/chatgpt.svg)
++ ![chatgpt](assets/icons/chatgpt.svg)
   ChatGPT
-+ ![chart](media/icons/chart.svg)
++ ![chart](assets/icons/chart.svg)
   Data Science
-+ ![farmer](media/icons/farmer.svg)
++ ![farmer](assets/icons/farmer.svg)
   Volunteering
-  [![certificate](media/icons/certificate.svg)](media/certs/230904-caritas-bergeinsatz-nachweis.pdf)
-+ ![teacher](media/icons/teacher.svg)
+  [![certificate](assets/icons/certificate.svg)](assets/certs/230904-caritas-bergeinsatz-nachweis.pdf)
++ ![teacher](assets/icons/teacher.svg)
   Teaching in a [climbing club](https://www.vsak.net/)
 
 ### Portfolio
 
-+ ![yoga](media/icons/yoga.svg) [Chat Bot](https://{{page.github}}/botasana)
-+ ![todo](media/icons/todo.svg) [Todo App](https://{{page.github}}/committed-project)
++ ![yoga](assets/icons/yoga.svg) [Chat Bot](https://{{page.github}}/botasana)
++ ![todo](assets/icons/todo.svg) [Todo App](https://{{page.github}}/committed-project)
 
 ## Languages
 
-+ ![united-kingdom](media/icons/united-kingdom.svg) English - full professional proficiency
-+ ![germany](media/icons/germany.svg) German - intermediate
-+ ![czechia](media/icons/czechia.svg) Czech - native
++ ![united-kingdom](assets/icons/united-kingdom.svg) English - full professional proficiency
++ ![germany](assets/icons/germany.svg) German - intermediate
++ ![czechia](assets/icons/czechia.svg) Czech - native
 
 ## Experience
 
 `2020-2022`
 **Process Research Chemist**
-[![certificate](media/icons/certificate.svg)](media/certs/syngenta-certificate.pdf),
+[![certificate](assets/icons/certificate.svg)](assets/certs/syngenta-certificate.pdf),
 _[Syngenta](https://www.syngenta.com/)_,
 Stein (AG), Switzerland
-![switzerland](media/icons/switzerland.svg)
+![switzerland](assets/icons/switzerland.svg)
 
 {% if page.include-outline %}
 ### Outline
@@ -167,7 +167,7 @@ Implementation of innovative reactions based on own ideas
 **Process Research Team Leader**,
 _[Farmak](https://www.farmak.cz/)_,
 Olomouc, Czech Republic
-![czechia](media/icons/czechia.svg)
+![czechia](assets/icons/czechia.svg)
 
 {% if page.include-outline %}
 ### Outline
@@ -181,25 +181,25 @@ pilot-plant for validation.
 
 `2023`
 **Junior Software Developer**
-[![certificate](media/icons/certificate.svg)](media/certs/green-fox-academy-certificate.pdf),
+[![certificate](assets/icons/certificate.svg)](assets/certs/green-fox-academy-certificate.pdf),
 _[Bootcamp](https://www.greenfoxacademy.com/en/home),_ 
 Online
-![internet.svg](media/icons/internet.svg)
+![internet.svg](assets/icons/internet.svg)
 
 <h2> </h2>
 
 `2008-2013`
 **Master's degree in Organic Chemistry**
-[![certificate](media/icons/certificate.svg)](media/certs/msc-diploma.pdf)
-[![certificate](media/icons/certificate.svg)](media/certs/bc-diploma.pdf),
+[![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf)
+[![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, 
 Prague, Czech Republic
-![czechia](media/icons/czechia.svg)
+![czechia](assets/icons/czechia.svg)
 
 ### Courses
 
 **Python 3**
-[![certificate](media/icons/certificate.svg)](media/certs/codecademy-certificate.pdf),
+[![certificate](assets/icons/certificate.svg)](assets/certs/codecademy-certificate.pdf),
 _[Codecademy](https://www.codecademy.com)_
 
 <!-- ### Footer

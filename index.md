@@ -6,6 +6,7 @@ description:
 email: kalamatej@gmail.com
 home: ka1amita.github.io
 github: github.com/ka1amita
+linkedin: www.linkedin.com/in/matej-kala
 address: Prague, Czech Republic
 phone: +420 737 239 310
 
@@ -30,6 +31,7 @@ include-achievements: true
 <ul id="web-address">
 <li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
 <li><i class="fa-brands fa-github"></i><a href="https://{{page.github}}">{{page.github}}</a></li>
+<li><i class="fa-brands fa-linkedin"></i><a href="https://{{page.linkedin}}">{{page.linkedin}}</a></li>
 {% if page.include-address %}
 <li><i class="fa-solid fa-home"></i>{{page.address}}</li>
 {% endif %}

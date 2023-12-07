@@ -82,7 +82,7 @@ I have a strong desire to improve my skills and further expand my knowledge to e
   Data Science
 + ![farmer](media/icons/farmer.svg)
   Volunteering
-  [![certificate](media/icons/certificate.svg)](media/certs/230904-caritas-bergeinsatz-nachweis.pdf),
+  [![certificate](media/icons/certificate.svg)](media/certs/230904-caritas-bergeinsatz-nachweis.pdf)
 + ![teacher](media/icons/teacher.svg)
   Teaching in a [climbing club](https://www.vsak.net/)
 

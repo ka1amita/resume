@@ -88,7 +88,7 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 ### Portfolio
 
-+ ![yoga](media/icons/yoga.svg) [Chat Bot](https://{{page.github}}/resume-chatbot)
++ ![yoga](media/icons/yoga.svg) [Chat Bot](https://{{page.github}}/botasana)
 + ![todo](media/icons/todo.svg) [Todo App](https://{{page.github}}/committed-project)
 
 ## Languages

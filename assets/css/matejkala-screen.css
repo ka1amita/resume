@@ -124,9 +124,8 @@ h3 {
 
 blockquote,
 q {
-  font-family: 'Whisper', cursive;
-  font-size: 2em;
-
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5em;
   margin-top: 1em;
 }
 
@@ -141,7 +140,7 @@ q:before {
   content: open-quote;
   font-size: 2em;
   position: relative;
-  left: -0.1em;
+  left: 0;
   top: 0.1em;
 }
 
@@ -150,6 +149,7 @@ q:after {
   content: close-quote;
   font-size: 2em;
   position: relative;
+  left: 0.1em;
   top: 0.1em;
 }
 

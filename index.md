@@ -13,7 +13,7 @@ phone: +420 737 239 310
 
 include-photo: true
 include-address: true
-include-quote: true
+include-quote: false
 include-outline: true
 include-responsibilities: false
 include-achievements: true

@@ -124,7 +124,8 @@ h3 {
 
 blockquote,
 q {
-  font-size: 110%;
+  font-family: 'Whisper', cursive;
+  font-size: 2em;
 }
 
 blockquote p {
@@ -138,7 +139,8 @@ q:before {
   content: open-quote;
   font-size: 2em;
   position: relative;
-  top: 0.7em;
+  left: -0.1em;
+  top: 0.1em;
 }
 
 blockquote:after,
@@ -146,7 +148,7 @@ q:after {
   content: close-quote;
   font-size: 2em;
   position: relative;
-  top: 0.2em;
+  top: 0.1em;
 }
 
 table {

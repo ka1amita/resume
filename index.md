@@ -1,8 +1,9 @@
 ---
 layout: cv
 title: Matej Kala
-subtitle: Chemist, Software Developer
+subtitle: Software Developer, Organic Chemist
 description: 
+quote: Work smart
 email: kalamatej@gmail.com
 home: ka1amita.github.io
 github: github.com/ka1amita
@@ -12,6 +13,7 @@ phone: +420 737 239 310
 
 include-photo: true
 include-address: true
+include-quote: true
 include-outline: true
 include-responsibilities: false
 include-achievements: true
@@ -26,19 +28,20 @@ include-achievements: true
 
 {{page.subtitle}}
 
-> Work smart
-
 <ul id="web-address">
-<li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
+<li><i class="fa-solid fa-house-laptop"></i><a href="https://{{page.home}}">{{page.home}}</a></li>
 <li><i class="fa-brands fa-github"></i><a href="https://{{page.github}}">{{page.github}}</a></li>
 <li><i class="fa-brands fa-linkedin"></i><a href="https://{{page.linkedin}}">{{page.linkedin}}</a></li>
 {% if page.include-address %}
 <li><i class="fa-solid fa-home"></i>{{page.address}}</li>
 {% endif %}
 <li><i class="fa-solid fa-phone"></i>{{page.phone}}</li>
+<li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
 </ul>
 
-[//]: # (<li><i class="fa-solid fa-house-laptop"></i><a href="https://{{page.home}}">{{page.home}}</a></li>)
+{% if page.include-quote %}
+> {{ page.quote }}
+{% endif %}
 
 ## Currently
 

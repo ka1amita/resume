@@ -12,11 +12,11 @@
 > [!CAUTION]
 > it should never be `usr/local/bin` - that's the OS Ruby! 
 
-+ `[bundle exec ]jekyll serve --open-url --livereload --disable-disk-cache --incremental` **rebuild** and **reload** the site **automatically** without cache
++ `[bundle exec ]jekyll serve --open-url --livereload **rebuild** and **reload** the site **automatically** without cache
   + `--open-url` opens in browser
   + `--detach` runs the server in background
-  + `--disable-disk-cache` disables caching to disk in non-safe mode
-  + `--incremental` enables incremental rebuild (disables `Auto-regeneration`)
+  + ~~`--disable-disk-cache`~~ disables caching to disk in non-safe mode
+  + ~~`--incremental`~~ enables incremental rebuild (disables `Auto-regeneration`)
   + `--no-watch` disables rebuild of changes
   + `--livereload` uses _LiveReload_ to **automatically** refresh browsers
   + `--port <PORT>` listens to a specified port (default `4000`)
@@ -24,6 +24,9 @@
  
 > [!TIP]
 > prefix `bundle exec` to manage dependencies with [Bundler][bundler][^difference]
+
+> [!WARNING]
+> don't use `--incremental` or `-I` because then you have to manually delete jekyll cache by `jekyll clean`
 
 [bundler]: https://bundler.io/
 

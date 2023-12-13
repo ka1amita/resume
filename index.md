@@ -14,7 +14,8 @@ phone: +420 737 239 310
 include-photo: true
 include-address: true
 include-quote: false
-include-outline: true
+include-currently: false
+include-outline: false
 include-responsibilities: false
 include-achievements: true
 #length: long
@@ -43,11 +44,13 @@ include-achievements: true
 > {{ page.quote }}
 {% endif %}
 
+{% if page.include-currently %}
 ## Currently
 
 I recently took a leave to get the education needed to start my new career.
 It was amazing to gain so much new knowledge. But I'm not going to end here.
 I have a strong desire to improve my skills and further expand my knowledge to excel in the new job.
+{% endif %}
 
 ## Tech Stack
 

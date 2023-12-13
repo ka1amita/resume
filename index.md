@@ -45,11 +45,9 @@ include-achievements: true
 
 ## Currently
 
-<p style="text-align: justify">
 I recently took a leave to get the education needed to start my new career.
 It was amazing to gain so much new knowledge. But I'm not going to end here.
 I have a strong desire to improve my skills and further expand my knowledge to excel in the new job.
-</p>
 
 ## Tech Stack
 

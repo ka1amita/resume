@@ -132,6 +132,10 @@ h3 {
   text-align: right;
 }
 
+p {
+  text-align: justify
+}
+
 blockquote,
 q {
   font-family: 'Indie Flower', cursive;

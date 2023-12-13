@@ -136,6 +136,10 @@ p {
   text-align: justify
 }
 
+h1 + p {
+  /*text-align: left;*/
+}
+
 blockquote,
 q {
   font-family: 'Indie Flower', cursive;

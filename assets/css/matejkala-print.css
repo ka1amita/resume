@@ -136,6 +136,10 @@ p {
   text-align: justify
 }
 
+h2 + p {
+  text-align: left;
+}
+
 blockquote,
 q {
   font-family: 'Indie Flower', cursive;
@@ -257,8 +261,10 @@ img {
   height: 1em;
   position: relative;
   top: 0.1em;
-  display: none;
-  /*visibility: hidden;*/
+}
+
+a:has(img) {
+  display: none; /* hides the img element above */
   /*
   display: none removes the entire element from the page and mat affect the layout of the page.
   visibility: hidden hides the element while keeping the space the same.
@@ -266,11 +272,11 @@ img {
 }
 
 #photo {
-  position: absolute;
-  height: 200px;
-  top: 50px;
-  left: -230px;
-	display: none;
+  /*position: absolute;*/
+  /*height: 200px;*/
+  /*top: 50px;*/
+  /*left: -230px;*/
+  display: none;
 }
 
 #ghbutton {

@@ -51,16 +51,26 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 ## Tech Stack
 
-+ <i class="fa-solid fa-star"></i>Java ![java](assets/icons/java.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Python ![python](assets/icons/python.svg)
-+ <i class="fa-solid fa-star"></i>SpringBoot ![spring](assets/icons/spring.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Flyway ![flyway](assets/icons/flyway.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Docker ![docker](assets/icons/docker.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>AWS ![ec2](assets/icons/ec2.svg)
-+ <i class="fa-regular fa-star"></i>Terraform ![terraform](assets/icons/terraform.svg)
-+ <i class="fa-solid fa-star"></i>CircleCI ![circleci](assets/icons/circleci.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>SQL ![mysql](assets/icons/mysql.svg)
-+ <i class="fa-solid fa-star"></i>Git ![git](assets/icons/git.svg)
++ <i class="fa-solid fa-star"></i>Java
+  ![java](assets/icons/java.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Python
+  ![python](assets/icons/python.svg)
++ <i class="fa-solid fa-star"></i>SpringBoot
+  ![spring](assets/icons/spring.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Flyway
+  ![flyway](assets/icons/flyway.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Docker
+  ![docker](assets/icons/docker.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>AWS
+  ![ec2](assets/icons/ec2.svg)
++ <i class="fa-regular fa-star"></i>Terraform
+  ![terraform](assets/icons/terraform.svg)
++ <i class="fa-solid fa-star"></i>CircleCI
+  ![circleci](assets/icons/circleci.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>SQL
+  ![mysql](assets/icons/mysql.svg)
++ <i class="fa-solid fa-star"></i>Git
+  ![git](assets/icons/git.svg)
 
 [//]: # (<i class="fa-solid fa-star"></i>)
 [//]: # (<i class="fa-solid fa-star-half-stroke"></i>)
@@ -188,8 +198,7 @@ Online
 
 `2008-2013`
 **Master's degree in Organic Chemistry**
-[![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf)
-[![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
+[![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf)[![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, 
 Prague, Czech Republic
 ![czechia](assets/icons/czechia.svg)

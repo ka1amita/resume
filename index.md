@@ -91,10 +91,6 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 + ![teacher](assets/icons/teacher.svg)
   Teaching in a [climbing club](https://www.vsak.net/)
 
-### Portfolio
-
-+ ![yoga](assets/icons/yoga.svg) [Chat Bot](https://{{page.github}}/botasana)
-
 ## Languages
 
 + ![united-kingdom](assets/icons/united-kingdom.svg) English - full professional proficiency

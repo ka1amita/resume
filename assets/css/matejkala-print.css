@@ -101,10 +101,20 @@ h1 {
   line-height: 1em;
 }
 
-h1 + p {
+h1 + q,
+h1 + blockquote {
   /*subtitle*/
+  margin-top: 0;
+  font-family: Avenir, Verdana, sans-serif;
   font-style: italic;
-  font-size: 110%;
+  font-size: 1.1em;
+}
+
+h1 + q:before,
+h1 + q:after,
+h1 + blockquote:before,
+h1 + blockquote:after {
+  display: none;
 }
 
 h2 {

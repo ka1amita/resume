@@ -3,7 +3,7 @@ layout: cv
 title: Matej Kala
 subtitle: Software Developer, Organic Chemist
 description: 
-quote: Work smart
+#quote: Work smart
 email: kalamatej@gmail.com
 home: www.matejkala.com
 github: github.com/ka1amita
@@ -116,6 +116,17 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 + ![czechia](assets/icons/czechia.svg) Czech - native
 
 ## Experience
+
+`2023 - now`
+**Professional Development**
+,
+Career Break
+
+I took a leave to gain the knowledge needed to start my new career in IT.
+It was amazing to gain so much new information. But I'm not going to end here.
+I have a strong desire to improve my skills and further expand my knowledge to excel in the new job.
+
+<h2> </h2>
 
 `2020-2022`
 **Process Research Chemist**

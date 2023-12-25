@@ -193,7 +193,8 @@ Implementation of innovative reactions based on own ideas
 <h2> </h2>
 
 `2016-2019`
-**Process Research Team Leader**,
+**Process Research Team Leader**
+,
 _[Farmak](https://www.farmak.cz/)_,
 Olomouc, Czech Republic
 ![czechia](assets/icons/czechia.svg)

@@ -38,7 +38,7 @@ include-achievements: true
 <li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
 </ul>
 
-{% if page.include-quote %}
+{% if page.quote %}
 > {{ page.quote }}
 {% endif %}
 

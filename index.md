@@ -5,7 +5,7 @@ subtitle: Software Developer, Organic Chemist
 description: 
 quote: Work smart
 email: kalamatej@gmail.com
-home: ka1amita.github.io
+home: www.matejkala.com
 github: github.com/ka1amita
 linkedin: www.linkedin.com/in/matej-kala
 address: Prague, Czech Republic

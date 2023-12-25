@@ -206,6 +206,15 @@ optimization through scale-up on 15 liters glass reactors to transfer of the fin
 pilot-plant for validation.
 {% endif %}
 
+{% if page.include-achievements %}
+### Achievements
+As a chief project researcher, successfully transferred one project for validation.
+
+Dealt with the optimization of non-reproducible lithiation resulting in highly robust process.
+
+Solved oiling-out problems during key crystallization of API intermediate.
+{% endif %}
+
 ## Education
 
 `2023`

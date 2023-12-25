@@ -266,8 +266,10 @@ img {
 #photo {
   position: absolute;
   height: 200px;
-    top: 50px;
-    left: -230px;
+  top: 50px;
+  left: -230px;
+  /*display: unset;*/
+  /*filter: saturate(0);*/
 }
 
 /*

@@ -272,11 +272,12 @@ a:has(img) {
 }
 
 #photo {
-  /*position: absolute;*/
-  /*height: 200px;*/
-  /*top: 50px;*/
-  /*left: -230px;*/
-  display: none;
+  position: absolute;
+  height: 200px;
+  top: 70px;
+  right: 0px;
+  display: unset;
+  filter: saturate(0);
 }
 
 #ghbutton {

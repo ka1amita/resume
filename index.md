@@ -104,6 +104,7 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 + ![united-kingdom](assets/icons/united-kingdom.svg) English - full professional proficiency
 + ![germany](assets/icons/germany.svg) German - intermediate
+  [![certificate](assets/icons/certificate.svg)](assets/certs/deutsch-a2.pdf)
 + ![czechia](assets/icons/czechia.svg) Czech - native
 
 ## Experience

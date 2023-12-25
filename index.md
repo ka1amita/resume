@@ -124,6 +124,7 @@ Career Break
 
 {% if page.include-outline %}
 <h3> </h3>
+
 I took a leave to gain the knowledge needed to start my new career in IT.
 It was amazing to gain so much new information. But I'm not going to end here.
 I have a strong desire to improve my skills and further expand my knowledge to excel in the new job.
@@ -212,6 +213,7 @@ pilot-plant for validation.
 
 {% if page.include-achievements %}
 ### Achievements
+
 As a chief project researcher, successfully transferred one project for validation.
 
 Dealt with the optimization of non-reproducible lithiation resulting in highly robust process.

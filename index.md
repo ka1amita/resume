@@ -206,9 +206,18 @@ Online
 
 <h2> </h2>
 
+`2013-2016`
+**unfinished doctorate in Organic Chemistry**
+,
+_[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
+Prague, Czech Republic
+![czechia](assets/icons/czechia.svg)
+
+<h2> </h2>
+
 `2008-2013`
 **Master's degree in Organic Chemistry**
-[![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf)[![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
+[![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf) [![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, 
 Prague, Czech Republic
 ![czechia](assets/icons/czechia.svg)

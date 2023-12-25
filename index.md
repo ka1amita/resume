@@ -11,9 +11,7 @@ linkedin: www.linkedin.com/in/matej-kala
 address: Prague, Czech Republic
 phone: +420 737 239 310
 
-include-photo: true
-include-address: true
-include-quote: false
+photo: matejkala.png
 include-currently: false
 include-outline: true
 include-responsibilities: false
@@ -21,8 +19,8 @@ include-achievements: true
 #length: long
 ---
 
-{% if page.include-photo %}
-<img id="photo" src="assets/photo/matejkala.png" alt="Matej Kala">
+{% if page.photo %}
+<img id="photo" src="{{ page.photo | prepend: '/assets/photo/' | relative_url }}" alt="Matej Kala">
 {% endif %}
 
 # {{page.title}}

@@ -10,6 +10,8 @@ github: github.com/ka1amita
 linkedin: www.linkedin.com/in/matej-kala
 address: Prague, Czech Republic
 phone: +420 737 239 310
+marital-status: single
+citizenship: Czech Republic
 
 photo: matejkala.png
 include-currently: false
@@ -28,14 +30,20 @@ include-achievements: true
 {{page.subtitle}}
 
 <ul id="web-address">
-<li><i class="fa-solid fa-house-laptop"></i><a href="https://{{page.home}}">{{page.home}}</a></li>
-<li><i class="fa-brands fa-github"></i><a href="https://{{page.github}}">{{page.github}}</a></li>
-<li><i class="fa-brands fa-linkedin"></i><a href="https://{{page.linkedin}}">{{page.linkedin}}</a></li>
-{% if page.include-address %}
-<li><i class="fa-solid fa-home"></i>{{page.address}}</li>
+<li><i class="fa-solid fa-house-laptop"></i><a aria-label="homepage" target="_blank" href="https://{{ page.home }}">{{ page.home }}</a></li>
+<li><i class="fa-brands fa-github"></i><a aria-label="GitHub" target="_blank" href="https://{{ page.github }}">{{ page.github }}</a></li>
+<li><i class="fa-brands fa-linkedin"></i><a aria-label="LinkedIn" target="_blank" href="https://{{ page.linkedin }}">{{ page.linkedin }}</a></li>
+{% if page.marital-status %}
+<li><i class="fa-solid fa-ring"></i><span aria-label="marital status">{{ page.marital-status }}</span></li>
 {% endif %}
-<li><i class="fa-solid fa-phone"></i>{{page.phone}}</li>
-<li><i class="fa-solid fa-at"></i><a href="mailto:{{page.email}}">{{page.email}}</a></li>
+{% if page.citizenship %}
+<li><i class="fa-solid fa-passport"></i><span aria-label="citizenship">{{ page.citizenship }}</span></li>
+{% endif %}
+{% if page.address %}
+<li><i class="fa-solid fa-home"></i><a aria-label="address" target="_blank" href="https://en.mapy.cz/turisticka?q={{ page.address | cgi_escape }}">{{ page.address }}</a></li>
+{% endif %}
+<li><i class="fa-solid fa-phone"></i><a aria-label="phone" target="_blank" href="tel:{{ page.phone | replace: ' ', ''  }}">{{  page.phone }}</a></li>
+<li><i class="fa-solid fa-at"></i><a aria-label="e-mail" target="_blank" href="mailto:{{ page.email }}">{{ page.email }}</a></li>
 </ul>
 
 {% if page.quote %}

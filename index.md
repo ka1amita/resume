@@ -229,6 +229,7 @@ Solved oiling-out problems during key crystallization of API intermediate.
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
 Prague, Czech Republic
 ![czechia](assets/icons/czechia.svg)
+{% if page.length == 'long' %}
 
 <h2> </h2>
 
@@ -238,6 +239,7 @@ Prague, Czech Republic
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
 Prague, Czech Republic
 ![czechia](assets/icons/czechia.svg)
+{% endif %}
 
 ### Courses
 

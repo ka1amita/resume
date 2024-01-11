@@ -254,6 +254,12 @@ Online
 [![certificate](assets/icons/certificate.svg)](assets/certs/codecademy-certificate.pdf),
 _[Codecademy](https://www.codecademy.com)_
 
+<h2> </h2>
+
+**Data Analyst**
+[![certificate](assets/icons/certificate.svg)](assets/certs/codecademy-certificate.pdf),
+_[Codecademy](https://www.codecademy.com)_
+
 <!-- ### Footer
 
 Last updated: December 2023 -->

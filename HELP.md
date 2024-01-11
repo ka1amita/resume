@@ -12,7 +12,7 @@
 > [!CAUTION]
 > it should never be `usr/local/bin` - that's the OS Ruby! 
 
-+ `[bundle exec ]jekyll serve --open-url --livereload **rebuild** and **reload** the site **automatically** without cache
++ `[bundle exec ]jekyll serve --open-url --livereload` **rebuild** and **reload** the site **automatically** without cache
   + `--open-url` opens in browser
   + `--detach` runs the server in background
   + ~~`--disable-disk-cache`~~ disables caching to disk in non-safe mode

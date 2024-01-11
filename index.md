@@ -75,7 +75,18 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 {% endif %}
 
-## Tech Stack
+## Skills
+
++ ![team](assets/icons/team.svg)
+  Teamwork
++ ![search](assets/icons/search.svg)
+  Attention to Detail
++ ![ear](assets/icons/ear.svg)
+  Curiosity
++ ![bulb](assets/icons/bulb.svg)
+  Problem Solving
+
+### Tech Stack
 
 + <i class="fa-solid fa-star"></i>Java
   ![java](assets/icons/java.svg)
@@ -97,33 +108,6 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
   ![mysql](assets/icons/mysql.svg)
 + <i class="fa-solid fa-star"></i>Git
   ![git](assets/icons/git.svg)
-
-[//]: # (<i class="fa-solid fa-star"></i>)
-[//]: # (<i class="fa-solid fa-star-half-stroke"></i>)
-[//]: # (<i class="fa-regular fa-star"></i>)
-
-### Soft Skills
-
-+ ![team](assets/icons/team.svg)
-  Teamwork
-+ ![search](assets/icons/search.svg)
-  Attention to Detail
-+ ![ear](assets/icons/ear.svg)
-  Curiosity
-+ ![bulb](assets/icons/bulb.svg)
-  Problem Solving
-
-### Interests
-
-+ ![chatgpt](assets/icons/chatgpt.svg)
-  ChatGPT
-+ ![chart](assets/icons/chart.svg)
-  Data Science
-+ ![farmer](assets/icons/farmer.svg)
-  Volunteering
-  [![certificate](assets/icons/certificate.svg)](assets/certs/230904-caritas-bergeinsatz-nachweis.pdf)
-+ ![teacher](assets/icons/teacher.svg)
-  Teaching in a [climbing club](https://www.vsak.net/)
 
 ## Languages
 
@@ -307,6 +291,18 @@ _[Codecademy](https://www.codecademy.com)_
 **Data Analyst**
 [![certificate](assets/icons/certificate.svg)](assets/certs/codecademy-certificate.pdf),
 _[Codecademy](https://www.codecademy.com)_
+
+## Interests
+
++ ![chatgpt](assets/icons/chatgpt.svg)
+  ChatGPT
++ ![chart](assets/icons/chart.svg)
+  Data Science
++ ![farmer](assets/icons/farmer.svg)
+  Volunteering
+  [![certificate](assets/icons/certificate.svg)](assets/certs/230904-caritas-bergeinsatz-nachweis.pdf)
++ ![teacher](assets/icons/teacher.svg)
+  Teaching in a [climbing club](https://www.vsak.net/)
 
 <!-- ### Footer
 

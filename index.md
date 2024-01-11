@@ -305,7 +305,3 @@ _[Codecademy](https://www.codecademy.com)_
   [![certificate](assets/icons/certificate.svg)](assets/certs/230904-caritas-bergeinsatz-nachweis.pdf)
 + ![teacher](assets/icons/teacher.svg)
   Teaching in a [climbing club](https://www.vsak.net/)
-
-<!-- ### Footer
-
-Last updated: December 2023 -->

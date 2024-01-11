@@ -134,12 +134,14 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 ## Experience
 
+<h3> </h3>
+
 `2023 - now`
 **Professional Development**
 ,
 Career Break
 
-<h2> </h2>
+<h3> </h3>
 
 `2023`
 **Process Research Chemist**
@@ -156,7 +158,7 @@ Member of a process research team developing API manufacturing processes.
 
 {% endif %}
 
-<h2> </h2>
+<h3> </h3>
 
 `2020-2022`
 **Process Research Chemist**
@@ -230,7 +232,7 @@ Implementation of innovative reactions based on own ideas
 
 {% endif %}
 
-<h2> </h2>
+<h3> </h3>
 
 `2016-2019`
 **Process Research Team Leader**
@@ -263,6 +265,8 @@ Solved oiling-out problems during key crystallization of API intermediate.
 
 ## Education
 
+<h3> </h3>
+
 `2008-2013`
 **Master's degree in Organic Chemistry**
 [![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf) [![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
@@ -272,7 +276,7 @@ Prague, Czech Republic
 
 {% if page.length == 'long' %}
 
-<h2> </h2>
+<h3> </h3>
 
 `2013-2016`
 **unfinished doctorate in Organic Chemistry**
@@ -292,13 +296,13 @@ _[Bootcamp](https://www.greenfoxacademy.com/en/home),_
 Online
 ![internet.svg](assets/icons/internet.svg)
 
-<h2> </h2>
+<h3> </h3>
 
 **Python 3**
 [![certificate](assets/icons/certificate.svg)](assets/certs/codecademy-certificate.pdf),
 _[Codecademy](https://www.codecademy.com)_
 
-<h2> </h2>
+<h3> </h3>
 
 **Data Analyst**
 [![certificate](assets/icons/certificate.svg)](assets/certs/codecademy-certificate.pdf),

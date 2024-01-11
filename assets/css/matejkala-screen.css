@@ -134,12 +134,8 @@ h3 {
   top: 1.95em;
 }
 
-p {
-  text-align: justify
-}
-
-h1 + p {
-  /*text-align: left;*/
+h2 + h3 {
+  display: none;
 }
 
 blockquote,
@@ -179,8 +175,14 @@ table {
 }
 
 p {
+  text-align: justify;
   margin-bottom: 0.7em;
   margin-right: 0;
+}
+
+h1 + p,
+h3 + p {
+  text-align: left;
 }
 
 code {
@@ -253,6 +255,14 @@ strong {
 
 i {
   text-align: center;
+}
+.fa-star,
+.fa-star-half-stroke{
+  color: #9ac99d;
+}
+
+li:has(i) {
+  margin-left: 1.2rem;
 }
 
 img {

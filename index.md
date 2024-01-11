@@ -77,6 +77,8 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 ## Skills
 
++ ![team](assets/icons/car.svg)
+  Driving Licence - B
 + ![team](assets/icons/team.svg)
   Teamwork
 + ![search](assets/icons/search.svg)

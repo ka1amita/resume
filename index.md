@@ -14,7 +14,7 @@ marital-status: single
 citizenship: Czech Republic
 
 photo: matejkala.png
-include-currently: false
+include-currently: true
 include-outline: true
 include-responsibilities: false
 include-achievements: true
@@ -68,9 +68,10 @@ include-achievements: true
 
 ## Currently
 
-I recently took a leave to get the education needed to start my new career.
-It was amazing to gain so much new knowledge. But I'm not going to end here.
-I have a strong desire to improve my skills and further expand my knowledge to excel in the new job.
+As my chemistry career progressed, 
+I became more and more interested in data analysis and later in programming in general.
+The interest was so strong that I decided to change careers. 
+Therefore, I recently took a break to gain the skills needed to start the new career. 
 
 {% endif %}
 
@@ -137,16 +138,6 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 **Professional Development**
 ,
 Career Break
-
-{% if page.include-outline %}
-
-<h3> </h3>
-
-I took a leave to gain the knowledge needed to start my new career in IT.
-It was amazing to gain so much new information. But I'm not going to end here.
-I have a strong desire to improve my skills and further expand my knowledge to excel in the new job.
-
-{% endif %}
 
 <h2> </h2>
 

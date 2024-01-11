@@ -132,6 +132,23 @@ I have a strong desire to improve my skills and further expand my knowledge to e
 
 <h2> </h2>
 
+`2023`
+**Process Research Chemist**
+,
+_[Teva](https://www.teva.cz/)_,
+Opava, Czech Republic
+![czechia](assets/icons/czechia.svg)
+
+{% if page.include-outline %}
+
+### Outline
+
+Member of a process research team developing API manufacturing processes.
+
+{% endif %}
+
+<h2> </h2>
+
 `2020-2022`
 **Process Research Chemist**
 [![certificate](assets/icons/certificate.svg)](assets/certs/syngenta-certificate.pdf),

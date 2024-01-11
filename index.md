@@ -223,12 +223,12 @@ Solved oiling-out problems during key crystallization of API intermediate.
 
 ## Education
 
-`2023`
-**Junior Software Developer**
-[![certificate](assets/icons/certificate.svg)](assets/certs/green-fox-academy-certificate.pdf),
-_[Bootcamp](https://www.greenfoxacademy.com/en/home),_ 
-Online
-![internet.svg](assets/icons/internet.svg)
+`2008-2013`
+**Master's degree in Organic Chemistry**
+[![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf) [![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
+_[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
+Prague, Czech Republic
+![czechia](assets/icons/czechia.svg)
 
 <h2> </h2>
 
@@ -239,16 +239,16 @@ _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
 Prague, Czech Republic
 ![czechia](assets/icons/czechia.svg)
 
-<h2> </h2>
-
-`2008-2013`
-**Master's degree in Organic Chemistry**
-[![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf) [![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
-_[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_, 
-Prague, Czech Republic
-![czechia](assets/icons/czechia.svg)
-
 ### Courses
+
+`2023`
+**Junior Software Developer**
+[![certificate](assets/icons/certificate.svg)](assets/certs/green-fox-academy-certificate.pdf),
+_[Bootcamp](https://www.greenfoxacademy.com/en/home),_
+Online
+![internet.svg](assets/icons/internet.svg)
+
+<h2> </h2>
 
 **Python 3**
 [![certificate](assets/icons/certificate.svg)](assets/certs/codecademy-certificate.pdf),

@@ -15,9 +15,9 @@ citizenship: Czech Republic
 
 photo: matejkala.png
 include-currently: false
-include-outline: false
+include-outline: true
 include-responsibilities: false
-include-achievements: false
+include-achievements: true
 #length: long
 ---
 

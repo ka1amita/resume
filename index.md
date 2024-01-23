@@ -303,5 +303,7 @@ _[Codecademy](https://www.codecademy.com)_
 + ![farmer](assets/icons/farmer.svg)
   Volunteering
   [![certificate](assets/icons/certificate.svg)](assets/certs/230904-caritas-bergeinsatz-nachweis.pdf)
++ ![outdoors](assets/icons/outdoors.svg)
+  Outdoors
 + ![teacher](assets/icons/teacher.svg)
   Teaching in a [climbing club](https://www.vsak.net/)

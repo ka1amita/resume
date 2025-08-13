@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Matej Kala
-subtitle: Software Developer, Organic Chemist
+subtitle: Software Developer
 description: 
 #quote: Work smart
 email: kalamatej@gmail.com
@@ -68,10 +68,12 @@ include-achievements: true
 
 ## Currently
 
-As my chemistry career progressed, 
-I became more and more interested in data analysis and later in programming in general.
-The interest was so strong that I decided to change careers. 
-Therefore, I recently took a break to gain the skills needed to start the new career. 
+I am a Java backend developer with almost 2 years of experience with the development of backend applications for Czech government agencies.
+
+I have passion for the field and strong desire to keep learning new things.
+
+I'm particularly drawn to engineering practices that ensure code quality and maintainability:
+Test-Driven Development, Domain-Driven Design and automation of testing, deployment, and quality checks.
 
 {% endif %}
 
@@ -90,26 +92,24 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 ### Tech Stack
 
-+ <i class="fa-solid fa-star"></i>Java
-  ![java](assets/icons/java.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Python
-  ![python](assets/icons/python.svg)
-+ <i class="fa-solid fa-star"></i>SpringBoot
-  ![spring](assets/icons/spring.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Flyway
-  ![flyway](assets/icons/flyway.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Docker
-  ![docker](assets/icons/docker.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>AWS
-  ![ec2](assets/icons/ec2.svg)
-+ <i class="fa-regular fa-star"></i>Terraform
-  ![terraform](assets/icons/terraform.svg)
-+ <i class="fa-solid fa-star"></i>CircleCI
-  ![circleci](assets/icons/circleci.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>SQL
-  ![mysql](assets/icons/mysql.svg)
-+ <i class="fa-solid fa-star"></i>Git
-  ![git](assets/icons/git.svg)
++ <i class="fa-solid fa-star"></i>Java ![java](assets/icons/java.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>SQL ![mysql](assets/icons/sql.svg)
++ <i class="fa-regular fa-star"></i>Python ![python](assets/icons/python.svg)
++ <i class="fa-regular fa-star"></i>Java Script ![java-script](assets/icons/java-script.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Open API ![open-api](assets/icons/open-api.png)
++ <i class="fa-solid fa-star"></i>Spring ![spring](assets/icons/spring.svg)
++ <i class="fa-solid fa-star"></i>Spring Boot ![spring-boot](assets/icons/spring-boot.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Hibernate ![hibernate](assets/icons/hibernate.svg)
++ <i class="fa-solid fa-star"></i>JUnit 5 ![junit-5](assets/icons/junit-5.svg)
++ <i class="fa-regular fa-star"></i>React ![react](assets/icons/react.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Kafka ![kafka](assets/icons/kafka.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Solr ![solr](assets/icons/solr.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Gradle ![gradle](assets/icons/gradle.svg)
++ <i class="fa-regular fa-star"></i>Maven ![maven](assets/icons/maven.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Docker ![docker](assets/icons/docker.svg)
++ <i class="fa-solid fa-star"></i>Git ![git](assets/icons/git.svg)
++ <i class="fa-regular fa-star"></i>Subversion ![subversion](assets/icons/subversion.svg)
++ <i class="fa-solid fa-star"></i>IDEA ![idea](assets/icons/idea.svg)
 
 ## Languages
 
@@ -122,7 +122,41 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 <h3> </h3>
 
-`2023 - now`
+`Feb 2024 - now`
+**Software Developer**
+,
+_[OKsystem](https://www.oksystem.com)_,
+Prague, Czech Republic
+![czechia](assets/icons/czechia.svg)
+
+{% if page.include-outline %}
+
+### Outline
+
+Member of a cross-functional team developing and maintaining two backend applications.
+One legacy monolithic application power by _Maven_, _Java_ 8 and _Spring_ 4.
+And one brand new microservice-based application power by _Gradle_, _Java_ 21 and _Spring Boot_ 3.
+
+Adding features mostly spanning _HTTP_ (_REST_) communication, _Kafka_ messaging, database _CRUD_ operations
+and scheduling tasks.
+
+{% endif %}
+
+{% if page.include-responsibilities %}
+
+### Responsibilities
+
+Unit and integration testing of the developed features.
+
+Configure and populate _Solr_ cores for full-text search capabilities.
+
+Deployment of the legacy application to integration environment.
+
+{% endif %}
+
+<h3> </h3>
+
+`2023 - 2024`
 **Professional Development**
 ,
 Career Break
@@ -146,7 +180,7 @@ Member of a process research team developing API manufacturing processes.
 
 <h3> </h3>
 
-`2020-2022`
+`2020 - 2022`
 **Process Research Chemist**
 [![certificate](assets/icons/certificate.svg)](assets/certs/syngenta-certificate.pdf),
 _[Syngenta](https://www.syngenta.com/)_,
@@ -220,7 +254,7 @@ Implementation of innovative reactions based on own ideas
 
 <h3> </h3>
 
-`2016-2019`
+`2016 - 2019`
 **Process Research Team Leader**
 ,
 _[Farmak](https://www.farmak.cz/)_,
@@ -253,7 +287,7 @@ Solved oiling-out problems during key crystallization of API intermediate.
 
 <h3> </h3>
 
-`2008-2013`
+`2008 - 2013`
 **Master's degree in Organic Chemistry**
 [![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf) [![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
@@ -264,7 +298,7 @@ Prague, Czech Republic
 
 <h3> </h3>
 
-`2013-2016`
+`2013 - 2016`
 **unfinished doctorate in Organic Chemistry**
 ,
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
@@ -296,14 +330,7 @@ _[Codecademy](https://www.codecademy.com)_
 
 ## Interests
 
-+ ![chatgpt](assets/icons/chatgpt.svg)
-  ChatGPT
-+ ![chart](assets/icons/chart.svg)
-  Data Science
-+ ![farmer](assets/icons/farmer.svg)
-  Volunteering
-  [![certificate](assets/icons/certificate.svg)](assets/certs/230904-caritas-bergeinsatz-nachweis.pdf)
-+ ![outdoors](assets/icons/outdoors.svg)
-  Outdoors
-+ ![teacher](assets/icons/teacher.svg)
-  Teaching in a [climbing club](https://www.vsak.net/)
++ ![chart](assets/icons/chart.svg) Data Science
++ ![farmer](assets/icons/farmer.svg) Volunteering [![certificate](assets/icons/certificate.svg)](assets/certs/230904-caritas-bergeinsatz-nachweis.pdf)
++ ![orienteering](assets/icons/orienteering.svg) Orienteering
++ ![teacher](assets/icons/teacher.svg) Teaching in a [climbing club](https://www.vsak.net/)

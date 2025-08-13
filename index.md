@@ -90,26 +90,25 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 ### Tech Stack
 
-+ <i class="fa-solid fa-star"></i>Java
-  ![java](assets/icons/java.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Python
-  ![python](assets/icons/python.svg)
-+ <i class="fa-solid fa-star"></i>SpringBoot
-  ![spring](assets/icons/spring.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Flyway
-  ![flyway](assets/icons/flyway.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>Docker
-  ![docker](assets/icons/docker.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>AWS
-  ![ec2](assets/icons/ec2.svg)
-+ <i class="fa-regular fa-star"></i>Terraform
-  ![terraform](assets/icons/terraform.svg)
-+ <i class="fa-solid fa-star"></i>CircleCI
-  ![circleci](assets/icons/circleci.svg)
-+ <i class="fa-solid fa-star-half-stroke"></i>SQL
-  ![mysql](assets/icons/mysql.svg)
-+ <i class="fa-solid fa-star"></i>Git
-  ![git](assets/icons/git.svg)
++ <i class="fa-solid fa-star"></i>Java ![java](assets/icons/java.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>SQL ![mysql](assets/icons/sql.svg)
++ <i class="fa-regular fa-star"></i>Python ![python](assets/icons/python.svg)
++ <i class="fa-regular fa-star"></i>Java Script ![java-script](assets/icons/java-script.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Open API ![open-api](assets/icons/open-api.png)
++ <i class="fa-solid fa-star"></i>Spring ![spring](assets/icons/spring.svg)
++ <i class="fa-solid fa-star"></i>Spring Boot ![spring-boot](assets/icons/spring-boot.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Hibernate ![hibernate](assets/icons/hibernate.svg)
++ <i class="fa-solid fa-star"></i>JUnit 5 ![junit-5](assets/icons/junit-5.svg)
++ <i class="fa-regular fa-star"></i>React ![react](assets/icons/react.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Kafka ![kafka](assets/icons/kafka.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Solr ![solr](assets/icons/solr.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Gradle ![gradle](assets/icons/gradle.svg)
++ <i class="fa-regular fa-star"></i>Maven ![maven](assets/icons/maven.svg)
++ <i class="fa-solid fa-star-half-stroke"></i>Docker ![docker](assets/icons/docker.svg)
++ <i class="fa-solid fa-star"></i>Git ![git](assets/icons/git.svg)
++ <i class="fa-regular fa-star"></i>Subversion ![subversion](assets/icons/subversion.svg)
++ <i class="fa-solid fa-star"></i>IDEA ![idea](assets/icons/idea.svg)
++ <i class="fa-regular fa-star"></i>Jira ![jira](assets/icons/jira.svg)
 
 ## Languages
 

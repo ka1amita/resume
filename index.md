@@ -135,7 +135,7 @@ Prague, Czech Republic
 
 Member of a cross-functional team developing and maintaining two backend applications.
 One legacy monolithic application power by _Maven_, _Java_ 8 and _Spring_ 4.
-And one brand new microservice-based power by _Gradle_, _Java_ 21 and _Spring Boot_ 3.
+And one brand new microservice-based application power by _Gradle_, _Java_ 21 and _Spring Boot_ 3.
 
 Adding features mostly spanning _HTTP_ (_REST_) communication, _Kafka_ messaging, database _CRUD_ operations
 and scheduling tasks.

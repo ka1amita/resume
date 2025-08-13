@@ -121,7 +121,7 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 <h3> </h3>
 
-`2023 - now`
+`2023 - 2024`
 **Professional Development**
 ,
 Career Break
@@ -145,7 +145,7 @@ Member of a process research team developing API manufacturing processes.
 
 <h3> </h3>
 
-`2020-2022`
+`2020 - 2022`
 **Process Research Chemist**
 [![certificate](assets/icons/certificate.svg)](assets/certs/syngenta-certificate.pdf),
 _[Syngenta](https://www.syngenta.com/)_,
@@ -219,7 +219,7 @@ Implementation of innovative reactions based on own ideas
 
 <h3> </h3>
 
-`2016-2019`
+`2016 - 2019`
 **Process Research Team Leader**
 ,
 _[Farmak](https://www.farmak.cz/)_,
@@ -252,7 +252,7 @@ Solved oiling-out problems during key crystallization of API intermediate.
 
 <h3> </h3>
 
-`2008-2013`
+`2008 - 2013`
 **Master's degree in Organic Chemistry**
 [![certificate](assets/icons/certificate.svg)](assets/certs/msc-diploma.pdf) [![certificate](assets/icons/certificate.svg)](assets/certs/bc-diploma.pdf),
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,
@@ -263,7 +263,7 @@ Prague, Czech Republic
 
 <h3> </h3>
 
-`2013-2016`
+`2013 - 2016`
 **unfinished doctorate in Organic Chemistry**
 ,
 _[University of Chemistry and Technology](https://www.vscht.cz/?jazyk=en)_,

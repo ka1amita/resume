@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Matej Kala
-subtitle: Software Developer, Organic Chemist
+subtitle: Software Developer
 description: 
 #quote: Work smart
 email: kalamatej@gmail.com

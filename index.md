@@ -68,10 +68,12 @@ include-achievements: true
 
 ## Currently
 
-As my chemistry career progressed, 
-I became more and more interested in data analysis and later in programming in general.
-The interest was so strong that I decided to change careers. 
-Therefore, I recently took a break to gain the skills needed to start the new career. 
+I am a Java backend developer with almost 2 years of experience with the development of backend applications for Czech government agencies.
+
+I have passion for the field and strong desire to keep learning new things.
+
+I'm particularly drawn to engineering practices that ensure code quality and maintainability:
+Test-Driven Development, Domain-Driven Design and automation of testing, deployment, and quality checks.
 
 {% endif %}
 

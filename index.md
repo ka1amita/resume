@@ -121,6 +121,40 @@ Therefore, I recently took a break to gain the skills needed to start the new ca
 
 <h3> </h3>
 
+`Feb 2024 - now`
+**Software Developer**
+,
+_[OKsystem](https://www.oksystem.com)_,
+Prague, Czech Republic
+![czechia](assets/icons/czechia.svg)
+
+{% if page.include-outline %}
+
+### Outline
+
+Member of a cross-functional team developing and maintaining two backend applications.
+One legacy monolithic application power by _Maven_, _Java_ 8 and _Spring_ 4.
+And one brand new microservice-based power by _Gradle_, _Java_ 21 and _Spring Boot_ 3.
+
+Adding features mostly spanning _HTTP_ (_REST_) communication, _Kafka_ messaging, database _CRUD_ operations
+and scheduling tasks.
+
+{% endif %}
+
+{% if page.include-responsibilities %}
+
+### Responsibilities
+
+Unit and integration testing of the developed features.
+
+Configure and populate _Solr_ cores for full-text search capabilities.
+
+Deployment of the legacy application to integration environment.
+
+{% endif %}
+
+<h3> </h3>
+
 `2023 - 2024`
 **Professional Development**
 ,

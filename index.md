@@ -110,7 +110,6 @@ Test-Driven Development, Domain-Driven Design and automation of testing, deploym
 + <i class="fa-solid fa-star"></i>Git ![git](assets/icons/git.svg)
 + <i class="fa-regular fa-star"></i>Subversion ![subversion](assets/icons/subversion.svg)
 + <i class="fa-solid fa-star"></i>IDEA ![idea](assets/icons/idea.svg)
-+ <i class="fa-regular fa-star"></i>Jira ![jira](assets/icons/jira.svg)
 
 ## Languages
 
